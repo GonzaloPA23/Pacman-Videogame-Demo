@@ -1,0 +1,1 @@
+Cantidad de pac-dots que comió Pacman: 196

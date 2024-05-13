@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Escenario.h(15,61): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Escenario.h(15,49): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Controladora.h(191,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Controladora.h(196,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Controladora.h(239,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Controladora.h(255,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Controladora.h(289,21): warning C4018: '<': no coinciden signed/unsigned
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\MyForm.h(36,14): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Generando código...
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Controladora.h(315): warning C4715: 'Controladora::Perdiste': no todas las rutas de acceso de control devuelven un valor
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Controladora.h(328): warning C4715: 'Controladora::Ganaste': no todas las rutas de acceso de control devuelven un valor
+  MyForm.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PACMAN.vcxproj -> D:\UPC\Programación Orientada a Objetos\PACMAN\Debug\PACMAN.exe

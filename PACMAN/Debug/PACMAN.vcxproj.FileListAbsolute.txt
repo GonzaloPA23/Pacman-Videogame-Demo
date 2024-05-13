@@ -1,0 +1,6 @@
+C:\Users\Acer\Videos\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Debug\PACMAN.vcxproj.AssemblyReference.cache
+C:\Users\Acer\Videos\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Debug\PACMAN.MyForm.resources
+C:\Users\Acer\Videos\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Debug\PACMAN.vcxproj.GenerateResource.cache
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Debug\PACMAN.vcxproj.AssemblyReference.cache
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Debug\PACMAN.MyForm.resources
+D:\UPC\Programación Orientada a Objetos\PACMAN\PACMAN\Debug\PACMAN.vcxproj.GenerateResource.cache
